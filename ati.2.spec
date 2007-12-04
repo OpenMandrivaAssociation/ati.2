@@ -16,7 +16,7 @@ Group:		System/XFree86
 URL:		http://gatos.sourceforge.net
 Source:		%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
-BuildRequires:	XFree86-devel >= 4.3
+BuildRequires:	X11-devel >= 4.3
 
 %description
 These are the experimental ATI drivers from gatos.sourceforge.net
