@@ -15,7 +15,6 @@ License:	GPL
 Group:		System/XFree86
 URL:		http://gatos.sourceforge.net
 Source:		%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 BuildRequires:	X11-devel >= 4.3
 
 %description
