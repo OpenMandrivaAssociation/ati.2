@@ -1,7 +1,7 @@
 %define name	ati.2
 %define cvs	20030708
 %define version	4.3
-%define release	 %mkrel 1
+%define release	 %mkrel 2
 
 %define x11prefix /usr/X11R6
 %define x11libdir %{x11prefix}/lib
